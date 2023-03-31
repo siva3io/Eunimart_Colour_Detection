@@ -1,0 +1,11 @@
+pandas
+easyocr
+requests
+tensorflow
+numpy
+matplotlib
+opencv-python
+keras
+extcolors
+colormap
+webcolors
